@@ -1,4 +1,6 @@
-# vue_lista_lekow
+# vue_medicine_list
+
+The vue_medicine_list is a list od medicines made on vue.js framework. There is a possibility to add or delete medicines from list.
 
 ## Project setup
 ```
